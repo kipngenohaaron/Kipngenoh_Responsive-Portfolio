@@ -23,6 +23,9 @@ This is a simple portfolio website template that you can use to showcase your sk
 ### Email Address: kipngenohaaron@gmail.com
 0724279400 / 0724828197
 
+## Live link:
+https://kipngenohresposiveportfolio.onrender.com
+
 ## Usage
 
 1. Clone this repository to your local machine.
